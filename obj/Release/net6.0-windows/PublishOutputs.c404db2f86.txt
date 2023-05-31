@@ -1,0 +1,5 @@
+C:\Users\адема\Desktop\game\game1.exe
+C:\Users\адема\Desktop\game\game1.dll
+C:\Users\адема\Desktop\game\game1.deps.json
+C:\Users\адема\Desktop\game\game1.runtimeconfig.json
+C:\Users\адема\Desktop\game\game1.pdb
